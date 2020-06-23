@@ -1,8 +1,58 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.2.1
-Date: 2020-02-15
+Version: 0.2.5
+Date: 2020-06-21
   Changes:
-    - added crushed oil sand (by request) for testing new version off our mod
+    - re added mod support for Deadlock Crating Machine (from shanemadden) (by request)
+  Added Stacking for:
+    - seaweed
+  Known Bugs:
+    - crating for Pyanodons mods can be active before researching the Crating Machine
+  Bugfixes:
+    - since seaweed and moss are modules i needed to redo some coding in the mod (thanks to billbo99)
+---------------------------------------------------------------------------------------------------
+Version: 0.2.4
+Date: 2020-06-17
+  Bugfixes:
+    - fixed bug when stacking biomass becomes stacked organic matter (organic matter no longer required with Py Alien Life mod installed)
+---------------------------------------------------------------------------------------------------
+Version: 0.2.3
+Date: 2020-06-14
+  Changes:
+    - added for stacking:
+    - empty comb
+    - saps
+    - moss gene sample
+    - biosample
+    - cDNA
+    - plasmids
+    - retrovirus
+    - sodium alginate
+    - petri dish
+    - incubated petri dish
+    - vrauk cocoon
+---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 2020-06-07
+  Changes:
+    - added for stacking:
+    - biomass (by request)
+    - agar
+    - latex slab
+    - cellulose
+    - moss
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 2020-06-06
+  Changes:
+    - added for stacking: (some by request)
+    - crushed oil sand
+    - carbon black
+    - oil sand
+    - coarse coal
+    - crushed coal
+    - latex
+  Bugfixes:
+    - added a new script for creating stacked icons (a very special thanks to billbo99)
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2020-02-15

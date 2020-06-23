@@ -1,0 +1,20 @@
+return {
+    {item = "latex", icon = nil, stage = 1, icon_size = 64},
+    {item = "biomass", icon = nil, stage = 1, icon_size = 64},
+    {item = "agar", icon = nil, stage = 1, icon_size = 64},
+    {item = "cellulose", icon = nil, stage = 1, icon_size = 64},
+    {item = "latex-slab", icon = nil, stage = 1, icon_size = 64},
+    {item = "moss", icon = nil, stage = 1, icon_size = 64, type = "module"},
+    {item = "empty-comb", icon = nil, stage = 1, icon_size = 64},
+    {item = "saps", icon = nil, stage = 1, icon_size = 64},
+    {item = "moss-gen", icon = nil, stage = 1, icon_size = 64},
+    {item = "biosample", icon = nil, stage = 1, icon_size = 64},
+    {item = "cdna", icon = nil, stage = 1, icon_size = 64},
+    {item = "plasmids", icon = nil, stage = 1, icon_size = 64},
+    {item = "retrovirus", icon = nil, stage = 1, icon_size = 64},
+    {item = "sodium-alginate", icon = nil, stage = 1, icon_size = 64},
+    {item = "petri-dish", icon = nil, stage = 1, icon_size = 64},
+    {item = "petri-dish-bacteria", icon = nil, stage = 1, icon_size = 64},
+    {item = "cocoon", icon = nil, stage = 1, icon_size = 64},
+    {item = "seaweed", icon = nil, stage = 1, icon_size = 64, type = "module"}
+}

@@ -1,12 +1,17 @@
 {
-  "name": "DeadlocksStackingForPyanadon",
-  "version": "0.2.1",
-  "title": "Deadlock's Stacking for Pyanodon",
-  "author": "The_Ghost",
-  "collaborator": "Chrisdec",
-  "contact": "",
-  "homepage": "",
-  "dependencies": ["base >= 0.18.4", "?deadlock-beltboxes-loaders >= 2.1.11", "pycoalprocessing >= 1.3.0", "?pyindustry >= 1.2.1", "?pyhightech >= 1.1.7", "?pyrawores >= 1.3.3", "?pyfusionenergy >= 1.2.4", "?pypetroleumhandling >= 1.1.1"],
-  "description": "Adds stacking (5x compression) for intermediate products introduced in Pyanodons Coal Processing, Pyanodons Fusion Energy, Pyanodons HighTech, Pyanodons Raw Ores, Py Petroleum Handling and Pyanodons Industry.",
-  "factorio_version": "0.18"
+    "name": "DeadlocksStackingForPyanadon",
+    "version": "0.2.6",
+    "title": "Deadlock's Stacking for Pyanodon",
+    "author": "The_Ghost",
+    "collaborator": "Chrisdec",
+    "contact": "",
+    "homepage": "",
+    "dependencies": [
+        "base >= 0.18.30",
+        "?deadlock-beltboxes-loaders >= 2.3.5",
+        "?DeadlockCrating >= 1.6.0",
+        "pycoalprocessing >= 1.3.0"
+    ],
+    "description": "Adds stacking (5x compression) for intermediate products introduced in Pyanodons Coal Processing, Pyanodons Fusion Energy, Pyanodons HighTech, Pyanodons Raw Ores, Py Petroleum Handling, Pyanodons Industry and Pyanodons Alien Life.",
+    "factorio_version": "0.18"
 }

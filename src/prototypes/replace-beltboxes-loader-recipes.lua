@@ -42,7 +42,7 @@ if mods["pypetroleumhandling"] then
   tiers["t3"]["loader"]["gears"] = {"small-parts-03", 4}
   tiers["t3"]["beltbox"]["gears"] = {"small-parts-03", 3}
 end
-
+if mods['DeadlockStacking'] then
 deadlock.add_tier({
 	transport_belt      = "transport-belt",
 	colour              = {r=210, g=180, b=80},
@@ -105,3 +105,5 @@ deadlock.add_tier({
   beltbox_category    = "crafting-with-fluid",
   beltbox_technology  = "deadlock-stacking-3",
 })
+
+end
